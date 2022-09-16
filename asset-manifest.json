@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gio-s-garden/static/css/main.80d97d3f.css",
-    "main.js": "/gio-s-garden/static/js/main.28077e60.js",
+    "main.js": "/gio-s-garden/static/js/main.3831c863.js",
     "static/js/787.82b65551.chunk.js": "/gio-s-garden/static/js/787.82b65551.chunk.js",
     "static/media/olivier.jpg": "/gio-s-garden/static/media/olivier.b2908b40d9fb7f86626b.jpg",
     "static/media/monstera.jpg": "/gio-s-garden/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
@@ -16,11 +16,11 @@
     "static/media/water.svg": "/gio-s-garden/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
     "index.html": "/gio-s-garden/index.html",
     "main.80d97d3f.css.map": "/gio-s-garden/static/css/main.80d97d3f.css.map",
-    "main.28077e60.js.map": "/gio-s-garden/static/js/main.28077e60.js.map",
+    "main.3831c863.js.map": "/gio-s-garden/static/js/main.3831c863.js.map",
     "787.82b65551.chunk.js.map": "/gio-s-garden/static/js/787.82b65551.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80d97d3f.css",
-    "static/js/main.28077e60.js"
+    "static/js/main.3831c863.js"
   ]
 }
